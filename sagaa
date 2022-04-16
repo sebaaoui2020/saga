@@ -1,1 +1,63 @@
-
+{
+    "Ads": {
+        "AdMob": {
+            "activated": false,
+            "banner": "ca-app-pub-3940256099942544/6300978111",
+            "native": "ca-app-pub-3940256099942544/2247696110",
+            "interstitial": "ca-app-pub-3940256099942544/1033173712"
+        },
+        "FAN": {
+            "activated": false,
+            "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        },
+        "ironSource": {
+            "activated": false,
+            "app_key": "11dae943d"
+        },
+        "Tapdaq": {
+            "activated": true,
+            "AppId": "619f526486c31c4e07c1134c",
+            "ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+        },
+        "Yandex": {
+            "banner": "R-M-1355917-2",
+            "native": "R-M-1355917-3",
+            "interstitial": "R-M-1355917-1"
+        }
+    },
+    "Config": {
+        "app_version": "1.0",
+        "package_name": "com.sagaa.summertimetips",
+        "rattingIsEnabled": false
+    },
+    "Privacy": {
+        "isEnabled": true,
+        "title": "Privacy Policy",
+        "message": "Privacy Policy Message",
+        "url": "https://sites.google.com/view/huggyy/home"
+    },
+    "GuideContent": [
+        {
+            "title": "Wait Huggy Can Bleed",
+            "description": "After one of the scariest chase sequences of any horror game title, players will find themselves backed up on a catwalk, terrified of the rapidly approaching Huggy Wuggy. However, if you can figure out how to beat him, he will fall off the catwalk, hitting several pipes and walkways as he falls into the industrial abyss. "
+        },
+        {
+            "title": "Are Those Things Watching You",
+            "description": "Adding to the permeating sense of paranoia and fear, Poppy Playtime fantastically weaves the environment to validate your fears. Throughout the game, due to the fantastical audio design, it's easy to feel like someone is right behind you at all times (but rarely is this correct). However, as you are required to create a friend (in the machine) to leave, as it is constructing, it can easily be missed that the machine actually follows your every step. "
+        },
+        {
+            "title": "Huggy's Always Watching",
+            "description": "Although players can recognize at the very start that Huggy enjoys stalking the player, throughout the game, there are subtle moments that many might miss on their first playthrough that imply he takes great pleasure in watching your every move. After disappearing at the very start, it would be a fatal mistake to think that Huggy Wuggy has left you for good. "
+        },
+        {
+            "title": "The Tapes And The Secrets",
+            "description": "Throughout Poppy Playtime, the actual story is completely shrouded in mystery. Players are thrust into unfamiliar territory that also manages to feel eerily nostalgic in a masterful play on the sense of the uncanny valley. However, if you take your time and explore each environment and room to the fullest, the same tapes that you were introduced to at the start can be found scattered throughout. "
+        },
+        {
+            "title": "Huggy's Been Watching you",
+            "description": "The game kicks off to a fantastically understated start. With the first tape you encounter immediately off-setting the atmosphere with an eerie sense of being watched, the owners inform you that they know you're watching the pre-recorded video. There is a great sense of paranoia that never leaves you and only until the latter half of the game does this paranoia become validated. "
+        }
+    ]
+}
